@@ -1,5 +1,4 @@
-Here’s a sample README file for your decentralized course review project:
-
+my edutech hackathon project
 ---
 
 # Decentralized Course Review
