@@ -8,7 +8,7 @@ my edutech hackathon project
 The Decentralized Course Review application aims to provide an immutable and transparent platform for students to review courses. By leveraging blockchain technology, this platform ensures that reviews are credible and tamper-proof. Students can earn tokens as a reward for contributing honest feedback, fostering a community-driven approach to course evaluation.
 
 ## Flowchart
-
+```flow
 +--------------------+
 |      Start         |
 +--------------------+
@@ -47,7 +47,7 @@ The Decentralized Course Review application aims to provide an immutable and tra
 +--------------------+
 |        End         |
 +--------------------+
-
+```
 
 ## Contract Address
 
