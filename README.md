@@ -3,9 +3,13 @@ my edu chain hackathon project
 
 # Decentralized Course Review
 
+
+<img src="https://github.com/user-attachments/assets/b67e0cb1-4ad6-4d0d-bd63-c2eaa32f1c87" alt="Project Logo" width="200"/>
+
+
 ## Vision
 
-The Decentralized Course Review application aims to provide an immutable and transparent platform for students to review courses. By leveraging blockchain technology, this platform ensures that reviews are credible and tamper-proof. Students can earn tokens as a reward for contributing honest feedback, fostering a community-driven approach to course evaluation.
+The Find application aims to provide an immutable and transparent platform for students to review courses. By leveraging blockchain technology, this platform ensures that reviews are credible and tamper-proof. Students can earn tokens as a reward for contributing honest feedback, fostering a community-driven approach to course evaluation.
 
 ## Flowchart
 ```flow
