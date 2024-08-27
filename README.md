@@ -1,4 +1,4 @@
-my edutech hackathon project
+my edu chain hackathon project
 ---
 
 # Decentralized Course Review
